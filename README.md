@@ -1,4 +1,4 @@
 # Excel_Projects
-Salary_Dashboard/n
-HR_Dashboard/n
-Sales_Dashboard/n
+Salary_Dashboard/
+HR_Dashboard/
+Sales_Dashboard/
