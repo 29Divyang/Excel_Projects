@@ -1,3 +1,3 @@
 # Excel_Projects
-HR Dasshboard
+HR Dashboard
 Sales_Dashboard
